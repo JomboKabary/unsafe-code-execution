@@ -1,4 +1,4 @@
-# Unsafe Code execution for Open WebUI (function only)
+# Unsafe Code execution for Open WebUI
 
 Non-Sandboxed code execution capabilities for [Open WebUI](https://openwebui.com/).
 
